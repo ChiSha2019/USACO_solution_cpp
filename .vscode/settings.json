@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "__threading_support": "cpp",
+        "vector": "cpp",
+        "__bit_reference": "cpp",
+        "__config": "cpp",
+        "__hash_table": "cpp",
+        "__string": "cpp",
+        "algorithm": "cpp",
+        "bitset": "cpp",
+        "functional": "cpp",
+        "locale": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
